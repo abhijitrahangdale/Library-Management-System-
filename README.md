@@ -1,6 +1,7 @@
 # Library_Management_System
 ## Project Overview:-
 Project Title: Library Management System
+
 Database: library_db
 
 This project showcases a comprehensive Library Management System implemented using SQL. It focuses on database design and management,
