@@ -156,4 +156,4 @@ FROM issued_status
 GROUP BY 1
 HAVING COUNT(*) > 1
 ```
-##3. CTAS (Create Table As Select)##
+## 3. CTAS (Create Table As Select)
