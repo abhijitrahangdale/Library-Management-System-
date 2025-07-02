@@ -37,6 +37,7 @@ data manipulation and complex query execution
 - **Table Creation:** Created tables for branches, employees, members, books, issued status, and return status. 
 Each table includes relevant columns and relationships.
 
+'''sql
 CREATE DATABASE library_db;
 
 DROP TABLE IF EXISTS branch;
@@ -118,3 +119,4 @@ CREATE TABLE return_status
             FOREIGN KEY (return_book_isbn) REFERENCES books(isbn)
 );
 
+'''
