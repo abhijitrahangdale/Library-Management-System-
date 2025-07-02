@@ -1,5 +1,5 @@
 # Library_Management_System
-## Project Overview:-
+## Project Overview:
 Project Title: Library Management System
 Database: library_db
 
