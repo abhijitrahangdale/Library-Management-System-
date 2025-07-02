@@ -1,7 +1,6 @@
 # Library_Management_System
 ## Project Overview:-
 Project Title: Library Management System
-
 Database: library_db
 
 This project showcases a comprehensive Library Management System implemented using SQL. It focuses on database design and management,
@@ -30,12 +29,12 @@ data manipulation and complex query execution
   - Write complex queries to analyze data (e.g., find most borrowed books or active members).  
   - Retrieve specific information using joins, filters, and aggregations.
  
-   ** Project Structure:-
-  ***1. Database Setup
+  ** Project Structure:**
+  ***1. Database Setup**
   ![library_erd](https://github.com/user-attachments/assets/b167145d-1f32-4374-8445-cef9da386a22)
 
-**Database Creation: Created a database named library_db.**
-**Table Creation: Created tables for branches, employees, members, books, issued status, and return status. 
-Each table includes relevant columns and relationships.**
+***Database Creation: Created a database named library_db.***
+***Table Creation: Created tables for branches, employees, members, books, issued status, and return status. 
+Each table includes relevant columns and relationships.***
 
 
