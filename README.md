@@ -398,4 +398,9 @@ WHERE isbn = '978-0-375-41398-8'
 - **Summary Reports:** Aggregated data on high-demand books and employee performance.
 
 ## Conclusion
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+This project shows how to use SQL, a language for working with databases, to build and manage a library system. It covers:
+
+1. **Setting up the database**: Creating tables to store information like books, members, and loans.
+2. **Managing data**: Adding, updating, or deleting records, such as adding a new book or updating a member's details.
+3. **Advanced querying**: Writing complex searches to find specific information, like which books are overdue or how many times a book was borrowed.
+
